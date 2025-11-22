@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="DataSourcePerFileMappings">
-    <file url="file://$PROJECT_DIR$/src/main/java/uz/pdp/MOCK_DATA.sql" value="e24d3761-1db2-4159-974a-6b054e206058" />
     <file url="file://$APPLICATION_CONFIG_DIR$/consoles/db/02c75068-ed3d-4204-b24b-f756ffbdd9ff/console.sql" value="02c75068-ed3d-4204-b24b-f756ffbdd9ff" />
     <file url="file://$APPLICATION_CONFIG_DIR$/consoles/db/646896bb-cbe2-4f2a-a1a8-bdb017813825/console.sql" value="646896bb-cbe2-4f2a-a1a8-bdb017813825" />
     <file url="file://$APPLICATION_CONFIG_DIR$/consoles/db/e24d3761-1db2-4159-974a-6b054e206058/console.sql" value="e24d3761-1db2-4159-974a-6b054e206058" />
